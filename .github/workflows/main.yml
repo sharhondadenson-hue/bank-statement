@@ -1,0 +1,5 @@
+<div class="actions">
+    <button class="download-btn" onclick="generatePDF()">Download PDF</button>
+    <button class="csv-btn" onclick="downloadCSV()">Export to CSV</button> <button class="print-btn" onclick="printStatement()">Print</button>
+    <button class="clear-btn" onclick="clearForm()">Clear All</button>
+</div>
